@@ -1,0 +1,13 @@
+# Contributors:
+#   Finn Kramer
+#   Ethan Lant
+#   Braedyn Thompson
+#   Damen Visscher
+# Project:
+#   Aqua Alert
+# Contains:
+#   Code for the Lifeguard System
+#       - Information Processing, Water Sensor Compatability and Integration, Bluetooth Operation, Antenna Operation
+#   Code for the Manager System
+#       - Information Processing, LCD Operation and UI, Bluetooth Information Reception, Alert Operation (Yet to be Fully Determined)
+#   Future PCB Design
